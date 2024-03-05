@@ -2,6 +2,7 @@ using System;
 using UnityEngine;
 using System.Collections;
 using TMPro;
+using UnityEngine.UI;
 
 
 namespace TMPro.Examples
