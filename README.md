@@ -1,4 +1,7 @@
 # 03-DebugBlockbreaker-IEbner
+DebugBlockbreaker ist eine Aufgabe auf er Basis vom Blockbreaker Game.
+Es soll den Umgang mit Versionieren auf GitHub, Fehlern finden und Klassendiagrammen beibringen.
+**Dev Platform**: Windows 11, Unity 2022.3.9f1, Visual Studio 2019
 
 ```mermaid
 classDiagram
